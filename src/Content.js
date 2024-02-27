@@ -9,9 +9,9 @@ const Content = () => {
       }
     
   return (
-    
-    <p>Welcome to {handleNameChange()}. Thank you for coming</p>
-
+    <main>
+      <p>Welcome to {handleNameChange()}. Thank you for coming</p>
+    </main>
   )
 }
 
