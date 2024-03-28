@@ -4,7 +4,7 @@ const Header = () => {
     const headerStyle = {backgroundColor:'mediumblue',color:'white'}
   return (
     <header style={headerStyle}>
-        <h1>To do List</h1>
+        <h3>Header</h3>
     </header>
   )
 }
